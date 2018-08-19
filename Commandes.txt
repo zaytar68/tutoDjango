@@ -1,0 +1,6 @@
+Activer venv :
+  source myvenv/bin/activate
+
+Lancer le serveur web :
+  python manage.py runserver
+  python manage.py runserver 0:8000
