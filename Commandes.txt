@@ -4,3 +4,17 @@ Activer venv :
 Lancer le serveur web :
   python manage.py runserver
   python manage.py runserver 0:8000
+
+GIT
+  Voir fichiers changés :
+    git status
+
+  Dans le dossier de travail, inclure les changements :
+    git add --all . (avec le point)
+
+  Indiquer les changements :
+    git commit -m "Commentaire"
+
+  Envoyer sur github
+    git push
+    
